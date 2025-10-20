@@ -1,0 +1,2 @@
+Как пакет: python -m geo_transform
+Импорт в другом коде: from geo_transform import cartesian_to_spherical
